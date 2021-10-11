@@ -18,4 +18,4 @@ to setup this project, run the following commands on your terminal
 I recommend that you use [POSTMAN](https://www.postman.com/) for testing this ecommerce api or you can hook it up to your front-end application like [Angular](https://angular.io/).
 
 ## Author
-[Gift Banda](https://giftmbanda.com)
+[Hlailstro]
